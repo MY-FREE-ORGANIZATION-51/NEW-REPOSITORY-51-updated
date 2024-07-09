@@ -429,49 +429,49 @@ def p_times_i_plus_one_equals_square_of_a_number(p):
     return p
 
 
-# print(euler_phi(8))
-# print(euler_phi(5))
-# print(euler_phi(4))
-#
-#
-# diophantus_solver(1,-24,131)
-# diophantus_solver(1,-25,60)
-# diophantus_solver(1,-1,5)
-#
-# euler_phi(50)
-#
-# ekok(12, 6)
-# ekok(1214, 2345)
-# ekok(17, 11)
-#
-# diophantus_solver(21, -35, 24)
-# diophantus_solver(5, 4, 8)
-#
-#
-# lineer_fonksiyon_cozumleri(0, 0, 1, 0, 2, 1, 0, 7)
-# lineer_fonksiyon_cozumleri(1, 1, 1, 0, 1, 1, 0, 5)
-#
-# lineer_kongruens_cozumu(12, 22, 14)
-# lineer_kongruens_cozumu(20, 30, 4)
-# lineer_kongruens_cozumu(353, 400, 254)
-# lineer_kongruens_cozumu(1215, 2755, 560)
-# lineer_kongruens_cozumu(3, 5, 9)
-# lineer_kongruens_cozumu(3, 24, 9)
-# lineer_kongruens_cozumu(5, 11, 19)
-# lineer_kongruens_cozumu(40, 6191, 191)
-# lineer_kongruens_cozumu(18, 50, 42)
-# lineer_kongruens_cozumu(256,337,179)
-#
-#
-# diophantus_solver(153, -803, 44)
-# ebob(301, 140)
-#
-# lineer_kongruens_cozumu(140, 301, 133)
-#
-# asal_bolenler(301)
-#
-# print(euler_phi(4725))
-# print(euler_phi(1250))
-# print(euler_phi(24000))
+print(euler_phi(8))
+print(euler_phi(5))
+print(euler_phi(4))
+
+
+diophantus_solver(1,-24,131)
+diophantus_solver(1,-25,60)
+diophantus_solver(1,-1,5)
+
+euler_phi(50)
+
+ekok(12, 6)
+ekok(1214, 2345)
+ekok(17, 11)
+
+diophantus_solver(21, -35, 24)
+diophantus_solver(5, 4, 8)
+
+
+lineer_fonksiyon_cozumleri(0, 0, 1, 0, 2, 1, 0, 7)
+lineer_fonksiyon_cozumleri(1, 1, 1, 0, 1, 1, 0, 5)
+
+lineer_kongruens_cozumu(12, 22, 14)
+lineer_kongruens_cozumu(20, 30, 4)
+lineer_kongruens_cozumu(353, 400, 254)
+lineer_kongruens_cozumu(1215, 2755, 560)
+lineer_kongruens_cozumu(3, 5, 9)
+lineer_kongruens_cozumu(3, 24, 9)
+lineer_kongruens_cozumu(5, 11, 19)
+lineer_kongruens_cozumu(40, 6191, 191)
+lineer_kongruens_cozumu(18, 50, 42)
+lineer_kongruens_cozumu(256,337,179)
+
+
+diophantus_solver(153, -803, 44)
+ebob(301, 140)
+
+lineer_kongruens_cozumu(140, 301, 133)
+
+asal_bolenler(301)
+
+print(euler_phi(4725))
+print(euler_phi(1250))
+print(euler_phi(24000))
 
 asal_bolenler(97)
